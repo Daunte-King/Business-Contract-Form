@@ -1,0 +1,228 @@
+
+
+section.header {
+    border: 2px solid black;
+    border-width: 100%;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    background-color: rgba(250, 204, 212, 0.39);
+    overflow: auto;
+    height: 100%;
+}
+
+.title {
+    display: block;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+.address {
+    display: block;
+    text-align: center;
+    font-size: medium;
+}
+
+.phone {
+    display: block;
+    text-align: center;
+    font-size: medium;
+}
+
+.email {
+    display: block;
+    text-align: center;
+    font-size: small;
+}
+
+section.proposal {
+    display: block;
+    font-size: x-large;
+    text-align: center;
+    border: 2px solid rgba(250, 204, 212, 0.39);
+    border-spacing: top 1px;
+    border-width: 100%;
+    overflow: auto;
+}
+
+.demo {
+    border:2px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+}
+.demo th {
+    border:2px solid #000000;
+    padding:5px;
+    background:rgba(250, 204, 212, 0.39);
+    text-align: left;
+}
+.demo td {
+    border:2px solid #000000;
+    padding:5px;
+    text-align: left;
+}
+
+td.service {
+    text-align: center;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    width: 50%;
+  }
+
+  .demo2 {
+    border:1px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.199);
+
+}
+.demo2 th {
+    border:1px solid #000000;
+    padding:5px;
+}
+.demo2 td {
+    border:1px solid #000000;
+    padding:5px;
+}
+
+
+table.restroom {
+    width: 100%;
+    text-align: left;
+    border: 1px solid grey;
+    padding: 5px;
+
+  }
+
+  .demo3 {
+    border:1px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.199);
+  }
+
+  table.floor {
+    width: 100%;
+    text-align: left;
+    border: 1px solid grey;
+    padding: 5px;
+  }
+
+  .demo4 {
+    border:1px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.199);
+}
+
+.demo4 td {
+    border:1px solid #000000;
+    padding:5px;
+}
+
+table.DW {
+    width: 100%;
+    text-align: left;
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+.demo5 {
+    border:1px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.199);
+}
+
+.demo5 td {
+    border:1px solid #000000;
+    padding:5px;
+}
+
+table.kit {
+    width: 100%;
+    text-align: left;
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+.demo6 {
+    border:1px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.199);
+}
+
+.demo6 td {
+    border:1px solid #000000;
+    padding:5px;
+}
+
+table.mis {
+    width: 100%;
+    text-align: left;
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+.demo7 {
+    border:1px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.199);
+}
+
+.demo7 td {
+    border:1px solid #000000;
+    padding:5px;
+}
+
+table.note {
+    width: 100%;
+    text-align: left;
+    border: 1px solid grey;
+    padding: 8px;
+
+}
+
+.demo8 {
+    border:2px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+}
+.demo8 th {
+    border:2px solid #000000;
+    padding:5px;
+    background-color: rgba(250, 204, 212, 0.39) ;
+}
+.demo8 td {
+    border:2px solid #000000;
+    padding:5px;
+}
+
+.demo9 {
+    border:2px solid #000000;
+    border-collapse:collapse;
+    padding:5px;
+    width: 100%;
+}
+.demo9 th {
+    border:2px solid #000000;
+    padding:5px;
+    background-color: rgba(250, 204, 212, 0.39) ;
+}
+.demo9 td {
+    border:2px solid #000000;
+}
