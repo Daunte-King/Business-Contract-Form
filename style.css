@@ -7,37 +7,37 @@ section.header {
     margin: 0px auto;
     text-align: center;
     background-color: rgba(250, 204, 212, 0.39);
-    overflow: auto;
+    overflow: hidden;
     height: 100%;
 }
 
 .title {
     display: block;
-    font-size: xx-large;
+    font-size: large;
     font-family: fantasy;
 }
 
 .address {
     display: block;
     text-align: center;
-    font-size: medium;
+    font-size: large;
 }
 
 .phone {
     display: block;
     text-align: center;
-    font-size: medium;
+    font-size: large;
 }
 
 .email {
     display: block;
     text-align: center;
-    font-size: small;
+    font-size: large;
 }
 
 section.proposal {
     display: block;
-    font-size: x-large;
+    font-size: large;
     text-align: center;
     border: 2px solid rgba(250, 204, 212, 0.39);
     border-spacing: top 1px;
@@ -50,6 +50,7 @@ section.proposal {
     border-collapse:collapse;
     padding:5px;
     width: 100%;
+    font-size: medium;
 }
 .demo th {
     border:2px solid #000000;
@@ -65,6 +66,7 @@ section.proposal {
 
 td.service {
     text-align: center;
+    font-size: large;
 }
 
 td, th {
@@ -72,6 +74,7 @@ td, th {
     text-align: left;
     padding: 8px;
     width: 50%;
+    font-size: large;
   }
 
   .demo2 {
@@ -80,7 +83,7 @@ td, th {
     padding:5px;
     width: 100%;
     background-color: rgba(128, 128, 128, 0.199);
-
+    font-size: medium;
 }
 .demo2 th {
     border:1px solid #000000;
@@ -97,7 +100,7 @@ table.restroom {
     text-align: left;
     border: 1px solid grey;
     padding: 5px;
-
+    font-size: large;
   }
 
   .demo3 {
@@ -106,6 +109,7 @@ table.restroom {
     padding:5px;
     width: 100%;
     background-color: rgba(128, 128, 128, 0.199);
+    font-size: medium;
   }
 
   table.floor {
@@ -113,6 +117,7 @@ table.restroom {
     text-align: left;
     border: 1px solid grey;
     padding: 5px;
+    font-size: large;
   }
 
   .demo4 {
@@ -121,6 +126,7 @@ table.restroom {
     padding:5px;
     width: 100%;
     background-color: rgba(128, 128, 128, 0.199);
+    font-size: medium;
 }
 
 .demo4 td {
@@ -133,6 +139,7 @@ table.DW {
     text-align: left;
     border: 1px solid grey;
     padding: 5px;
+    font-size: large;
 }
 
 .demo5 {
@@ -141,6 +148,7 @@ table.DW {
     padding:5px;
     width: 100%;
     background-color: rgba(128, 128, 128, 0.199);
+    font-size: medium;
 }
 
 .demo5 td {
@@ -153,6 +161,7 @@ table.kit {
     text-align: left;
     border: 1px solid grey;
     padding: 5px;
+    font-size: large;
 }
 
 .demo6 {
@@ -161,6 +170,7 @@ table.kit {
     padding:5px;
     width: 100%;
     background-color: rgba(128, 128, 128, 0.199);
+    font-size: medium;
 }
 
 .demo6 td {
@@ -173,14 +183,16 @@ table.mis {
     text-align: left;
     border: 1px solid grey;
     padding: 5px;
+    font-size: large;
 }
 
 .demo7 {
     border:1px solid #000000;
-    border-collapse:collapse;
+    /* border-collapse:collapse; */
     padding:5px;
     width: 100%;
     background-color: rgba(128, 128, 128, 0.199);
+    font-size: medium;
 }
 
 .demo7 td {
@@ -193,7 +205,7 @@ table.note {
     text-align: left;
     border: 1px solid grey;
     padding: 8px;
-
+    font-size: large;
 }
 
 .demo8 {
@@ -201,6 +213,7 @@ table.note {
     border-collapse:collapse;
     padding:5px;
     width: 100%;
+    font-size: medium;
 }
 .demo8 th {
     border:2px solid #000000;
@@ -217,6 +230,7 @@ table.note {
     border-collapse:collapse;
     padding:5px;
     width: 100%;
+    font-size: medium;
 }
 .demo9 th {
     border:2px solid #000000;
